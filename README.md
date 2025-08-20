@@ -1,2 +1,2 @@
 # Powershell-Ciberseguridad
-Esta
+Es un proyecto público de reciente creación enfocado en el uso de PowerShell para la ciberseguridad. Está orientado a proveer scripts, herramientas o recursos que ayuden en tareas de seguridad informática dentro de entornos Windows. El objetivo suele ser automatizar procesos como auditorías, análisis de vulnerabilidades, gestión de incidentes o administración segura de sistemas. El repositorio está configurado para permitir colaboración y gestión de proyectos, pero actualmente no cuenta con issues abiertos, forks ni estrellas.
